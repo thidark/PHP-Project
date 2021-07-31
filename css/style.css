@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+.content{
+	border:black 1px solid;
+	width:500px;
+	height:500px;
+	padding:50 50 50 50;
+	margin-top:30px;
+	color:blue;
+	}
+	
+	
+	.right_menu{
+	width:100%;
+	height:100px;
+	
+	}
+	.error_msg{
+	color:red;
+	}
+	
+	.top_button{
+	  float:left;
+	  clear:right;
+	  
+	  margin:0px 10px 10px 10px;
+	}
+	
+	
+	th { text-align: center; background-color: blue; color:white; }
+	
+	tr.alt td{
+	background-color: #afa;
+	}
+	
+	
+	
